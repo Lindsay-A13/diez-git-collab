@@ -3,5 +3,5 @@
 ## Contributors
 - Master Maintainer - Lindsay Angcao
 - Task Contributor A - Vincent Villajuan
-- Task Contributor B - 
+- Task Contributor B - Sherryl Custodio
 - Task Contributor C -
