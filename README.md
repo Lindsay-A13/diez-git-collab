@@ -4,4 +4,4 @@
 - Master Maintainer - Lindsay Angcao
 - Task Contributor A - Vincent Villajuan
 - Task Contributor B - Sherryl Custodio
-- Task Contributor C -
+- Task Contributor C - Althea Rosenas
